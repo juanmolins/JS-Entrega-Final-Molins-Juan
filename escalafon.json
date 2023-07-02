@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "categoria": "Profesional",
+        "basico": 100000,
+        "valorAntiguedad": 1000
+    },
+    {
+        "id": 2,
+        "categoria": "Tecnico/a" ,
+        "basico": 90000,
+        "valorAntiguedad": 900
+    },
+    {
+        "id": 3,
+        "categoria": "Administrativo/a" ,
+        "basico": 80000,
+        "valorAntiguedad": 800
+    },
+    {
+        "id": 4,
+        "categoria": "Auxiliar" ,
+        "basico": 70000,
+        "valorAntiguedad": 700
+    }
+]

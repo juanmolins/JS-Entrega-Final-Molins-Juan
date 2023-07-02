@@ -1,0 +1,28 @@
+
+[
+    {
+        "id": 1,
+        "nivel": "Universitario",
+        "porcentaje": 0.3
+    },
+    {
+        "id": 2,
+        "nivel": "Tecnicatura",
+        "porcentaje": 0.2
+    },
+    {
+        "id": 3,
+        "nivel": "Secundario Tecnico",
+        "porcentaje": 0.18
+    },
+    {
+        "id": 4,
+        "nivel": "Secundario",
+        "porcentaje": 0.15
+    },
+    {
+        "id": 5,
+        "nivel": "Sin titulo",
+        "porcentaje": 0
+    }
+]
